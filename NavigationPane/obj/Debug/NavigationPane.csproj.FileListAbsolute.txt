@@ -1,0 +1,9 @@
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\bin\Debug\MT.WindowsUI.dll
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\bin\Debug\MT.WindowsUI.pdb
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\obj\Debug\MT.WindowsUI.NavigationPane.NavigateBarOptions.resources
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\obj\Debug\MT.WindowsUI.NavigationPane.Properties.Resources.resources
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\obj\Debug\MT.WindowsUI.dll
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPane\obj\Debug\MT.WindowsUI.pdb

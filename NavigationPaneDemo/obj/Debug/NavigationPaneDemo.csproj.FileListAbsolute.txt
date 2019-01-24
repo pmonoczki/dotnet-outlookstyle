@@ -1,0 +1,17 @@
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\bin\Debug\NavigationPaneDemo.exe
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\bin\Debug\NavigationPaneDemo.pdb
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\bin\Debug\MT.WindowsUI.dll
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\bin\Debug\MT.WindowsUI.pdb
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.Calendar.resources
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.TestMDIChildForm.resources
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.MailTree.resources
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.NavigateBarRemoteControl.resources
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.TestMainForm.resources
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.Properties.Resources.resources
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.exe
+C:\Users\Pal\Desktop\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.pdb
+F:\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.exe
+F:\OutlookStyleNavigationPane\NavigationPaneDemo\obj\Debug\NavigationPaneDemo.pdb

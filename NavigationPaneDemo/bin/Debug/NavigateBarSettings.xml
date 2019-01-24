@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Outlook 2003 Style Navigation Pane Settings-->
+<!--Do not manual change this file-->
+<NavigationPaneSettings DiplayedButtonCount="8" ButtonHeight="32" PaneWidth="150" IsShowCollapseButton="True" IsCollapsible="True" OverFlowPanelHeight="32">
+  <ColorTable>
+    <ContextMenuArrowStyle>Office2007</ContextMenuArrowStyle>
+    <PaintRatio>0,5</PaintRatio>
+    <PaintAngle>90</PaintAngle>
+    <TextColor>-16777216</TextColor>
+    <SelectedTextColor>-16777216</SelectedTextColor>
+    <BorderColor>-16777088</BorderColor>
+    <CaptionTextColor>-16777216</CaptionTextColor>
+    <CaptionBegin>-1839105</CaptionBegin>
+    <CaptionEnd>-8674080</CaptionEnd>
+    <CaptionDescBegin>-1839105</CaptionDescBegin>
+    <CaptionDescEnd>-8674080</CaptionDescEnd>
+    <SeparatorDark>-9794357</SeparatorDark>
+    <SeparatorLight>-919041</SeparatorLight>
+    <ButtonNormalBegin>-1839105</ButtonNormalBegin>
+    <ButtonNormalMiddleBegin>-3415556</ButtonNormalMiddleBegin>
+    <ButtonNormalMiddleEnd>-3415556</ButtonNormalMiddleEnd>
+    <ButtonNormalEnd>-8674080</ButtonNormalEnd>
+    <ButtonSelectedBegin>-98242</ButtonSelectedBegin>
+    <ButtonSelectedMiddleBegin>-20115</ButtonSelectedMiddleBegin>
+    <ButtonSelectedMiddleEnd>-20115</ButtonSelectedMiddleEnd>
+    <ButtonSelectedEnd>-8294</ButtonSelectedEnd>
+    <ButtonMouseOverBegin>-34</ButtonMouseOverBegin>
+    <ButtonMouseOverMiddleBegin>-7764</ButtonMouseOverMiddleBegin>
+    <ButtonMouseOverMiddleEnd>-7764</ButtonMouseOverMiddleEnd>
+    <ButtonMouseOverEnd>-13432</ButtonMouseOverEnd>
+    <MenuBackColor>-592138</MenuBackColor>
+  </ColorTable>
+  <MAIL Enabled="True" Display="True" Visible="True" Selected="True" OrderNo="0" />
+  <CALENDAR Enabled="True" Display="True" Visible="True" Selected="False" OrderNo="1" />
+  <CONTACTS Enabled="True" Display="True" Visible="True" Selected="False" OrderNo="2" />
+  <TASKS Enabled="True" Display="True" Visible="True" Selected="False" OrderNo="3" />
+  <NOTES Enabled="True" Display="True" Visible="True" Selected="False" OrderNo="4" />
+  <FOLDERLIST Enabled="True" Display="True" Visible="True" Selected="False" OrderNo="5" />
+  <SHORTCUT Enabled="True" Display="True" Visible="True" Selected="False" OrderNo="6" />
+  <DIARY Enabled="True" Display="True" Visible="True" Selected="False" OrderNo="7" />
+</NavigationPaneSettings>
